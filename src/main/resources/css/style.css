@@ -273,3 +273,6 @@ body{
 #cover-caption {
   width: 100%;
 }
+#errorIcon{
+	align-self: center;
+}
