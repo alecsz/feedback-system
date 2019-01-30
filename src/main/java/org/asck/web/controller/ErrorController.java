@@ -12,8 +12,5 @@ public class ErrorController extends AbstractController {
 		return "error";
 	}
 
-	// @GetMapping("/throwError")
-//	public String throwError() {
-//		throw new ExampleException(); 
-//	}
+	
 }
